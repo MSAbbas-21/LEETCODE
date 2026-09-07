@@ -1,10 +1,10 @@
 # LeetCode Solutions 🚀
 
-Welcome to my **LeetCode Problem-Solving Journey**!
+Welcome to my **LeetCode Problem-Solving Journey!**
 
-This repository contains my solutions to LeetCode problems that I solve regularly to improve my **problem-solving skills, algorithms, data structures, and Python programming**.
+This repository contains my solutions to LeetCode problems that I solve regularly to improve my **problem-solving skills, Data Structures & Algorithms, and Python programming**.
 
-I am maintaining this repository by solving and committing problems consistently as part of my daily learning.
+I am maintaining this repository by solving problems consistently and committing my progress to GitHub as part of my daily learning journey.
 
 ---
 
@@ -23,11 +23,11 @@ I am maintaining this repository by solving and committing problems consistently
 ## 📊 Progress
 
 | Difficulty | Solved |
-| ---------- | ------ |
-| 🟢 Easy    | 15     |
-| 🟡 Medium  | 0      |
-| 🔴 Hard    | 0      |
-| **Total**  | **15**  |
+| ---------- | -----: |
+| 🟢 Easy    |     15 |
+| 🟡 Medium  |      0 |
+| 🔴 Hard    |      0 |
+| **Total**  | **15** |
 
 > I will update this table as I solve more problems.
 
@@ -57,8 +57,7 @@ I am maintaining this repository by solving and committing problems consistently
 * Backtracking
 * Bit Manipulation
 
-
-```
+---
 
 ## 🧠 My Approach
 
@@ -98,4 +97,4 @@ Keep solving. Keep learning. Keep improving. 🚀
 
 This repository represents my learning journey.
 
-Some solutions may start with a straightforward approach before being optimized. The focus is on continuously improving my understanding and writing better solutions over time.
+Some solutions may start with a straightforward approach before being optimized. The focus is on continuously improving my understanding, problem-solving ability, and writing better solutions over time.
