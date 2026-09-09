@@ -24,10 +24,10 @@ I am maintaining this repository by solving problems consistently and committing
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| 🟢 Easy    |     15 |
+| 🟢 Easy    |     16 |
 | 🟡 Medium  |      0 |
 | 🔴 Hard    |      0 |
-| **Total**  | **15** |
+| **Total**  | **16** |
 
 > I will update this table as I solve more problems.
 
